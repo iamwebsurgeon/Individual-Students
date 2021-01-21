@@ -1,0 +1,29 @@
+html, body{
+	margin:0;
+	padding:0;
+}
+#top_bar{
+	background-color: #0d1326;
+	width:100%;
+	height: 50px;
+	color: white;
+	
+}
+#sec{
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+ul{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+
+}
+ul li{
+	float: left;
+	margin-right: 250px;
+	line-height: 50px;
+
+}
